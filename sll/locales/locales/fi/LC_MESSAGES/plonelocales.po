@@ -1,0 +1,49 @@
+# Translation of plonelocales.pot to Finnish
+# Jukka Ojaniemi <jukka.ojaniemi@jyu.fi>, 2009, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: plone-fi\n"
+"POT-Creation-Date: 2006-12-15 23:20+0000\n"
+"PO-Revision-Date: 2012-01-24 09:47+0200\n"
+"Last-Translator: Tanja <tanja.sormunen@hexagonit.fi>\n"
+"Language-Team: Finnish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language-Code: fi\n"
+"Language-Name: Finnish\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: plonelocales\n"
+
+#. The variables used here are the same as used in the strftime formating.
+#. Supported are ${A}, ${a}, ${B}, ${b}, ${H}, ${I}, ${m}, ${d}, ${M}, ${p},
+#. ${S}, ${Y}, ${y}, ${Z}, each used as variable in the msgstr.
+#. For example: "${A} ${d}. ${B} ${Y}, ${H}:${M} ${Z}"
+#. In english speaking countries default is:
+#. ${Y}-${m}-${d} ${H}:${M}
+#. ${b} ${d}, ${Y} ${I}:${M} ${p}
+#: ./TranslationServiceTool.py
+msgid "date_format_long"
+msgstr "${d}.${m}.${Y} ${H}:${M} ${Z}"
+
+#. The variables used here are the same as used in the strftime formating.
+#. Supported are ${A}, ${a}, ${B}, ${b}, ${H}, ${I}, ${m}, ${d}, ${M}, ${p},
+#. ${S}, ${Y}, ${y}, ${Z}, each used as variable in the msgstr.
+#. For example: "${A} ${d}. ${B} ${Y}, ${H}:${M} ${Z}"
+#. In english speaking countries default is:
+#. ${Y}-${m}-${d}
+#. ${b} ${d}, ${Y}
+#: ./TranslationServiceTool.py
+msgid "date_format_short"
+msgstr "${d}.${m}.${Y}"
+
+#. The variables used here are the same as used in the strftime formating.
+#. Supported are ${A}, ${a}, ${B}, ${b}, ${H}, ${I}, ${m}, ${d}, ${M}, ${p},
+#. ${S}, ${Y}, ${y}, ${Z}, each used as variable in the msgstr.
+#. For example: "${A} ${d}. ${B} ${Y}, ${H}:${M} ${Z}"
+#. In english speaking countries default is:
+#. ${I}:${M} ${p}
+#: ./TranslationServiceTool.py
+msgid "time_format"
+msgstr "${H}:${M}"
