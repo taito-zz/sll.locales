@@ -17,3 +17,6 @@ msgstr ""
 
 msgid "label_email"
 msgstr "Sähköposti (Käyttäjätunnus)"
+
+msgid "Stock List"
+msgstr "Varastolista"
