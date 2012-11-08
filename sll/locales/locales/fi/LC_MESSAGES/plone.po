@@ -20,3 +20,6 @@ msgstr "Sähköposti (Käyttäjätunnus)"
 
 msgid "Stock List"
 msgstr "Varastolista"
+
+msgid "Charged"
+msgstr "Laskutettu"
