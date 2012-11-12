@@ -23,3 +23,6 @@ msgstr "Varastolista"
 
 msgid "Charged"
 msgstr "Laskutettu"
+
+msgid "Addresses"
+msgstr "Osoitteet"
