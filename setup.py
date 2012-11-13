@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
     name='sll.locales',
-    version='0.1.1',
+    version='0.2',
     description="Conatains SLL locale files.",
     long_description=open("README.rst").read(),
     # Get more strings from

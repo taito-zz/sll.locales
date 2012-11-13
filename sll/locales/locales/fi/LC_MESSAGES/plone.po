@@ -17,12 +17,3 @@ msgstr ""
 
 msgid "label_email"
 msgstr "Sähköposti (Käyttäjätunnus)"
-
-msgid "Stock List"
-msgstr "Varastolista"
-
-msgid "Charged"
-msgstr "Laskutettu"
-
-msgid "Addresses"
-msgstr "Osoitteet"
