@@ -5,7 +5,7 @@ from setuptools import setup
 setup(
     name='sll.locales',
     version='0.2',
-    description="Conatains SLL locale files.",
+    description="Overrides default translations of Plone for SLL, SLT and LL site.",
     long_description=open("README.rst").read(),
     # Get more strings from
     # http://pypi.python.org/pypi?%3Aaction=list_classifiers

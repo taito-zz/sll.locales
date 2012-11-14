@@ -2,7 +2,7 @@
 sll.locales
 ===========
 
-This package is for overriding other packages' translations such as plone domain's.
+sll.locales overrides default translations of Plone for SLL, SLT and LL site.
 
 Change log
 ----------
