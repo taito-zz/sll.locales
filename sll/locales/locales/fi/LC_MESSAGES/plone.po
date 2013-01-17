@@ -15,5 +15,11 @@ msgstr ""
 "Preferred-Encodings: latin9 utf-8\n"
 "Domain: plone\n"
 
+#. Default: "Log out"
+#: CMFPlone/profiles/default/actions.xml
+msgid "Log out"
+msgstr "Kirjaudu ulos"
+
+
 msgid "label_email"
 msgstr "Sähköposti (Käyttäjätunnus)"
