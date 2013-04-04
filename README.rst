@@ -7,6 +7,11 @@ sll.locales overrides default translations of Plone for SLL, SLT and LL site.
 Change log
 ----------
 
+0.4 (2013-04-04)
+================
+
+- Added translations for domain: plone.app.discussion. [taito]
+
 0.3 (2013-01-17)
 ================
 

@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: plone.app.discussion\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"PO-Revision-Date: 2010-09-07 13:35+0200\n"
+"Last-Translator: Taito Horiuchi <taito.horiuchi@abita.fi>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language-Code: fi\n"
+"Language-Name: Suomeksi\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: plone.app.discussion\n"
+"X-Poedit-Language: Finnish\n"
+"X-Poedit-Country: FINLAND\n"
+
+#. Default: "Anonymous"
+#: ../comment.py:156
+msgid "label_anonymous"
+msgstr "Anonyymi"
+
+#. Default: "says:"
+#: ../browser/comments.pt:74
+msgid "label_says"
+msgstr " "
