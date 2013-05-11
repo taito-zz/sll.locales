@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
     name='sll.locales',
-    version='0.4',
+    version='0.5',
     description="Overrides default translations of Plone for SLL site.",
     long_description=open("README.rst").read(),
     classifiers=[
