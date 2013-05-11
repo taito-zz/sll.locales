@@ -5,11 +5,11 @@ from setuptools import setup
 setup(
     name='sll.locales',
     version='0.4',
-    description="Overrides default translations of Plone for SLL, SLT and LL site.",
+    description="Overrides default translations of Plone for SLL site.",
     long_description=open("README.rst").read(),
     classifiers=[
         "Framework :: Plone",
-        "Framework :: Plone :: 4.2",
+        "Framework :: Plone :: 4.3",
         "Programming Language :: Python",
         "Programming Language :: Python :: 2.7"],
     keywords='',
@@ -22,7 +22,7 @@ setup(
     include_package_data=True,
     zip_safe=False,
     install_requires=[
-        'Products.CMFPlone',
+        'sll.baselocales',
         'setuptools'],
     entry_points="""
     # -*- Entry points: -*-

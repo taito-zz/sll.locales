@@ -2,10 +2,15 @@
 sll.locales
 ===========
 
-sll.locales overrides default translations of Plone for SLL, SLT and LL site.
+sll.locales overrides default translations of Plone for SLL site.
 
 Change log
 ----------
+
+0.5 (2013-05-11)
+================
+
+- Moved common translations to package: sll.baselocales. [taito]
 
 0.4 (2013-04-04)
 ================

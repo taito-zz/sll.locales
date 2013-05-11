@@ -4,6 +4,7 @@
   xmlns:i18n="http://namespaces.zope.org/i18n"
   xmlns="http://namespaces.zope.org/zope">
 
+  <include package="sll.baselocales"/>
   <i18n:registerTranslations directory="locales" />
 
 </configure>
