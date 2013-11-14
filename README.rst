@@ -7,6 +7,11 @@ sll.locales overrides default translations of Plone for SLL site.
 Change log
 ----------
 
+0.5.1 (2013-11-14)
+==================
+
+- Changed translation [pekka]
+
 0.5 (2013-05-11)
 ================
 
